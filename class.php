@@ -5,7 +5,7 @@ class Config
     private $databaseHost = 'localhost';
     private $databaseName = 'arduino_project';
     private $databaseUsername = "root";
-    private $databasePassword = "cevher344BAKAN";
+    private $databasePassword = "";
 
     function db()
     {
